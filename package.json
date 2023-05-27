@@ -1,5 +1,5 @@
 {
-  "repository": "https://github.com/vercel/examples.git",
+  "repository": "https://github.com/AbhieShinde/nodejs-serverless-function-express.git",
   "license": "MIT",
   "private": true,
   "devDependencies": {
